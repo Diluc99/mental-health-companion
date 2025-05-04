@@ -6,8 +6,7 @@ node_modules/
 client/node_modules/
 server/node_modules/
 
-# Build artifacts (if any)
-client/build/
+
 
 # Editor/IDE files
 .vscode/
